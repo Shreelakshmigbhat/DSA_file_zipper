@@ -29,3 +29,12 @@ Huffman Coding Algorithm Steps:
 
 ## Project Structure
 
+FileZipper_Project/
+│
+├── main.c # Entry point of the program
+├── huffman.c # Contains Huffman coding logic (heap + tree)
+├── huffman.h # Header file for Huffman function declarations
+├── utils.c # Utility functions for reading files and frequency counting
+├── utils.h # Header file for utility functions
+├── sample.txt # Sample input text file
+
